@@ -9,11 +9,11 @@
 
 The dataset consists of time series of different frequencies.
 
-- Yearly: TODO
-- Quarterly: TODO
-- Monthy: TODO
-- Weekly: TODO
-- Daily: TODO
+- Yearly
+- Quarterly
+- Monthy
+- Weekly
+- Daily
 
 ## Links
 
